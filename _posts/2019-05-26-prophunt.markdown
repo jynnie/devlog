@@ -1,10 +1,15 @@
 ---
 layout: post
-title:  "prophunt.io"
-date:   2019-05-26 16:19:59 -0400
+title: prophunt.io
+date: '2019-05-26 16:19:59 -0400'
 categories: prophunt
-tags: [web dev, video game, team work, gin]
+tags:
+  - web dev
+  - video game
+  - team work
+  - gin
 permalink: /prophunt/
+published: true
 ---
 
 **prophunt.io** is a simple, 2D, web-based version of the game prophunt - the popular hide and seek game on Garry's Mod. the major hurdle of this project is to adopt a game that is heavily reliant on its 3D-ness as a simple 2D "io game" (such as [agar.io](http://agar.io/) and [surviv.io](http://surviv.io/)). the key mechanic to prophunt is "hiders" can transform into "props", some furniture or item on the map, and hide by posing as innocently as possible. 
@@ -22,7 +27,7 @@ we pretty much straight adopted the rules of Garry's Mod's prophunt.
 
 ## development process
 
-i'll be posting updates as we work on tackling features. there are four of us, so we've somewhat subdivided tasks. as we're low-key working on this side hustle while in school, updates will not be regular. eventually, we will most likely opensource the project and you i'll link it.
+i'll be posting updates as we work on tackling features. we've got the four of us - cor, mattf, kvfrans and myself. we're low-key working on this side hustle while in school, so updates will not be regular. eventually, we will most likely opensource the project and you i'll link it.
 
 <br/>
 {%- for post in site.categories.prophunt -%}
@@ -31,5 +36,3 @@ i'll be posting updates as we work on tackling features. there are four of us, s
 {{ post.content }}
 {%- endif -%}
 {%- endfor -%}
-
-
