@@ -19,7 +19,7 @@
         <div class="trigger">
 
           {%- for category in site.categories -%}
-            <a class="page-link" href="/{{ category[0] }}/">{{ category[0] | escape }}</a>
+            <a class="page-link" href="{{site.baseurl}}/{{ category[0] }}/">{{ category[0] | escape }}</a>
           {%- endfor -%}
 
           <!-- {%- for path in page_paths -%}
