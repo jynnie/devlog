@@ -7,6 +7,7 @@ tags:
   - the future
   - co-creativity
   - margarita
+title: future fairs
 ---
 i picked up _the future_ by Nick Montfort last summer and have been slowly (very slowly considering it's only 155 pages long...) making my way through it. in chapter 5, montfort discusses the role and impact of world fairs and envisioning the future. world fairs have since lost their sheen in the current century. instead, these communal scenes of "future-ing" have fractured into various conferences and cons: fifty-person academic conferences, bursting comiket, streamed corporate product reveals.
 
