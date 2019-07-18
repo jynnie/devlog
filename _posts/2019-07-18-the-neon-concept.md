@@ -39,7 +39,7 @@ and from here we were ready to kick it
 time period: sunday and monday
 
 [motivations]: {{site.baseurl}}/assets/cityneon-2.JPG
-[chunks]: ({{site.baseurl}}/assets/cityneon-1.JPG
-[magical-mood]: ({{site.baseurl}}/assets/cityneon-3.png
-[city-mood]: ({{site.baseurl}}/assets/cityneon-4.png
-[low-mood]: ({{site.baseurl}}/assets/cityneon-5.png
+[chunks]: {{site.baseurl}}/assets/cityneon-1.JPG
+[magical-mood]: {{site.baseurl}}/assets/cityneon-3.png
+[city-mood]: {{site.baseurl}}/assets/cityneon-4.png
+[low-mood]: {{site.baseurl}}/assets/cityneon-5.png
