@@ -43,7 +43,7 @@ but you might notice, after all i talked about animations, that she's awfully st
 
 well, after a lot of research and trying, i was unable to get any of my animations to associate with the imported models. and while i really wanted to see if unreal's graphics are as great as people attest - the lack of resources (both relevant tutorials and community posts) that i decided it was not worth the time tradeoff**. 
 
-so i switched to unity. why unity? i have previous experience developing 2d games in unity, but don't have as much experience with 3d development. and unity, while buggy, has an extensive trail of resources. to attest to that, i set up models, a basic environment, cameras, lighting, and ✨_animations_✨. BUT, i'm not gonna share any screenshots till next post. it deserves it's own post :P
+so i switched to unity. why unity? i have previous experience developing 2d games in unity, but don't have as much experience with 3d development. and unity, while buggy, has an extensive trail of resources. i might also claim that unity is more intuitive and friendlier than unreal. to attest to that, i set up models, a basic environment, cameras, lighting, player movement, and ✨_animations_✨ on the same day. BUT, i'm not gonna share any screenshots till next post. it deserves it's own post :P
 
 time elapsed: wednesday
 
