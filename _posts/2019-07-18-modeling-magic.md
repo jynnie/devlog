@@ -44,7 +44,7 @@ excited by my success, i dove into rigging (carried single-handedly by [Karan Sh
 
 time period: monday
 
-[character-concept]: {{site.baseurl}}/assets/cityneon-20190718-1.JPG
+[character-concept]: {{site.baseurl}}/assets/cityneon-20190718-1.jpg
 [sculpting]: {{site.baseurl}}/assets/cityneon-20190718-2.png
 [head]: {{site.baseurl}}/assets/cityneon-20190718-3.png
 [lavender]: {{site.baseurl}}/assets/cityneon-20190718-4.png
