@@ -18,6 +18,7 @@ why? i wasn't being particularly picky (which i _am_ apt to do), but i'd actuall
 2. their method is perhaps more intuitive for those familiar with sculpting, but for a noob, sculpting is most certainly harder than the alternative
 3. and from my research, i found little community documentation and tutorial on their sculpt-and-shrink-wrap method
 
+<br/>
 ![image: sculpting attempt][sculpting]
 
 this ended poorly. i ended up welding her arms into her thighs.
