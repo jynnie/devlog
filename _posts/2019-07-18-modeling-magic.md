@@ -42,7 +42,7 @@ excited by my success, i dove into rigging (carried single-handedly by [Karan Sh
 <!-- ![image: posing][posin] -->
 </div>
 
-time period: monday
+time period: monday and tuesday
 
 [character-concept]: {{site.baseurl}}/assets/cityneon-20190718-1.jpg
 [sculpting]: {{site.baseurl}}/assets/cityneon-20190718-2.png
