@@ -1,0 +1,39 @@
+.categoryUpdate + .categoryUpdate {
+  // border-top: 1px grey solid; 
+  margin-top: 1.5em;
+}
+
+a.readMore {
+  color: grey;
+  display: flex;
+  justify-content: center;
+  font-style: italic;
+  font-size: .8em;
+}
+
+a.readMore:hover {
+  text-decoration: none;
+  font-style: normal;
+}
+
+.imageGallery p {
+  display: flex;
+  justify-content: center;
+}
+
+.imageGallery img {
+  -webkit-box-flex: 1;
+  -moz-box-flex: 1;
+  box-flex: 1;
+  -webkit-flex: 1 1 auto;
+  flex: 1 1 auto;
+
+  padding: 0 2px;
+}
+
+img {
+  max-height: 500px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
