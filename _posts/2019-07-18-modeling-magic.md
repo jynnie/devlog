@@ -22,7 +22,7 @@ why? i wasn't being particularly picky (which i _am_ apt to do), but i'd actuall
 
 this ended poorly. i ended up welding her arms into her thighs.
 
-the next morning, after a psychedelic dream where i modeled the way i should have, i deleted the file and started over. within half an hour, i had a pretty good head.
+the next morning, after a psychedelic dream where i modeled the way i should have, i deleted the file and started over. within half an hour, i had made pretty good _head_ way.
 
 ![image: what a good head][head]
 
